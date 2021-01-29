@@ -1,0 +1,7 @@
+PyCity Schools Analysis
+
+2 Trends Identified from the Data Analysis completed.
+
+1) Money does not solve (math or reading) problems. The analysis of students math and reading scores based on the per-student budgets revealed that students performed worse and passed both math and reading at a lower rate when they had more yearly school budget allocated to their education. The students that had the least amount of budget allocated to them, relative to the other groups, actually had the highest overall passing rate.
+
+2) Larger schools struggle with teaching their students math! In the student scores by school size analysis, math scores for schools with less than 2000 students averaged around an 83, with a 93% pass rate for the subject. Schools with more than 2000 students had a dramatically lower pass rate, at less than 70%. These schools were not underfunded, per my earlier analysis, but they had a much more difficult time teaching the fundamentals required to pass math.
